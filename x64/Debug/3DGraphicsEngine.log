@@ -1,0 +1,23 @@
+﻿  3DGraphicsEngine.cpp
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\olcConsoleGameEngine.h(767,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\olcConsoleGameEngine.h(1107,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\olcConsoleGameEngine.h(1204,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(760,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(769,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(769,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(768,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(768,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(767,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(767,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(771,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(771,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(771,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(771,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(771,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(771,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(846,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(847,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(906,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(907,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(458): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': not all control paths return a value
+  3DGraphicsEngine.vcxproj -> C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\x64\Debug\3DGraphicsEngine.exe

@@ -1,0 +1,122 @@
+﻿  3DGraphicsEngine.cpp
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(34,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(34,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(34,23): error C2238: unexpected token(s) preceding ';'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(43,3): error C2065: 'vector': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(43,10): error C2275: 'vec3d': illegal use of this type as an expression
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(16): message : see declaration of 'vec3d'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(43,17): error C2065: 'verts': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(44,3): error C2065: 'vector': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(44,10): error C2275: 'vec2d': illegal use of this type as an expression
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(9): message : see declaration of 'vec2d'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(44,17): error C2065: 'texs': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(65,6): error C2065: 'texs': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(71,6): error C2065: 'verts': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(81,6): error C2065: 'tris': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(81,23): error C2065: 'verts': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(81,40): error C2065: 'verts': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(81,57): error C2065: 'verts': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(106,6): error C2065: 'tris': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(106,23): error C2065: 'verts': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(106,51): error C2065: 'verts': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(106,79): error C2065: 'verts': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(107,7): error C2065: 'texs': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(107,34): error C2065: 'texs': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(107,61): error C2065: 'texs': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(123,1): error C2504: 'olcConsoleGameEngine': base class undefined
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(139,11): error C2143: syntax error: missing ';' before '*'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(139,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(139,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(463,21): error C3646: 'GetColour': unknown override specifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(463,21): error C2059: syntax error: '('
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(464,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(783,12): error C2061: syntax error: identifier 'olcSprite'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(499,7): error C3668: 'olcEngine3D::OnUserCreate': method with override specifier 'override' did not override any base class methods
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(516,7): error C3668: 'olcEngine3D::OnUserUpdate': method with override specifier 'override' did not override any base class methods
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(127,3): error C2065: 'm_sAppName': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(502,28): error C3861: 'ScreenWidth': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(502,44): error C3861: 'ScreenHeight': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(502,1): error C3078: array size must be specified in new expressions
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(509,3): error C2065: 'sprTex1': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(509,1): error C2061: syntax error: identifier 'olcSprite'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(512,49): error C3861: 'ScreenHeight': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(512,73): error C3861: 'ScreenWidth': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(512,1): error C2660: 'olcEngine3D::Matrix_MakeProjection': function does not take 3 arguments
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(210,9): message : see declaration of 'olcEngine3D::Matrix_MakeProjection'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(518,14): error C2065: 'VK_UP': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(518,7): error C3861: 'GetKey': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(521,14): error C2065: 'VK_DOWN': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(521,7): error C3861: 'GetKey': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(526,14): error C2065: 'VK_LEFT': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(526,7): error C3861: 'GetKey': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(529,14): error C2065: 'VK_RIGHT': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(529,7): error C3861: 'GetKey': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(537,7): error C3861: 'GetKey': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(540,7): error C3861: 'GetKey': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(543,7): error C3861: 'GetKey': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(546,7): error C3861: 'GetKey': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(579,3): error C2065: 'vector': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(579,10): error C2275: 'triangle': illegal use of this type as an expression
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(24): message : see declaration of 'triangle'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(579,20): error C2065: 'vecTrianglesToRaster': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(582,1): error C2039: 'tris': is not a member of 'mesh'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(32): message : see declaration of 'mesh'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(587,58): error C2065: 'tri': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(587,1): error C2660: 'olcEngine3D::Matrix_MultiplyVector': function does not take 1 arguments
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(141,8): message : see declaration of 'olcEngine3D::Matrix_MultiplyVector'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(588,58): error C2065: 'tri': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(588,1): error C2660: 'olcEngine3D::Matrix_MultiplyVector': function does not take 1 arguments
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(141,8): message : see declaration of 'olcEngine3D::Matrix_MultiplyVector'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(589,58): error C2065: 'tri': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(589,1): error C2660: 'olcEngine3D::Matrix_MultiplyVector': function does not take 1 arguments
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(141,8): message : see declaration of 'olcEngine3D::Matrix_MultiplyVector'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(590,26): error C2065: 'tri': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(591,26): error C2065: 'tri': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(592,26): error C2065: 'tri': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(621,5): error C2065: 'CHAR_INFO': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(621,15): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(621,15): error C2065: 'c': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(621,19): error C3861: 'GetColour': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(622,26): error C2065: 'c': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(623,26): error C2065: 'c': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(689,43): error C3861: 'ScreenWidth': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(690,43): error C3861: 'ScreenHeight': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(691,43): error C3861: 'ScreenWidth': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(692,43): error C3861: 'ScreenHeight': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(693,43): error C3861: 'ScreenWidth': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(694,43): error C3861: 'ScreenHeight': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(697,6): error C2065: 'vecTrianglesToRaster': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(711,14): error C3861: 'ScreenWidth': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(711,29): error C3861: 'ScreenHeight': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(711,45): error C2065: 'PIXEL_SOLID': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(711,58): error C2065: 'FG_BLACK': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(711,3): error C3861: 'Fill': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(714,23): error C3861: 'ScreenWidth': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(714,39): error C3861: 'ScreenHeight': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,28): error C2065: 'vecTrianglesToRaster': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): error C2672: 'begin': no matching overloaded function found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xutility(1903): message : see declaration of 'std::begin'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): message : With the following template arguments:
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): message : '_Container=unknown-type'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\initializer_list(57): message : see declaration of 'std::begin'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): error C2672: 'end': no matching overloaded function found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xutility(1913): message : see declaration of 'std::end'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): message : With the following template arguments:
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): message : '_Container=unknown-type'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\initializer_list(63): message : see declaration of 'std::end'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): error C3536: '<begin>$L1': cannot be used before it is initialized
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): error C3536: '<end>$L1': cannot be used before it is initialized
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(719,1): error C2100: illegal indirection
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(725,4): error C2065: 'list': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(725,9): error C2275: 'triangle': illegal use of this type as an expression
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(24): message : see declaration of 'triangle'
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(725,19): error C2065: 'listTriangles': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(728,4): error C2065: 'listTriangles': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(737,22): error C2065: 'listTriangles': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(738,6): error C2065: 'listTriangles': undeclared identifier
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(749,68): error C3861: 'ScreenHeight': identifier not found
+C:\Users\njohn\Desktop\New folder\3DGraphicsEngine\3DGraphicsEngine.cpp(749,1): fatal error C1003: error count exceeds 100; stopping compilation
